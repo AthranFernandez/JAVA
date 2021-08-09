@@ -1,0 +1,9 @@
+to run code:
+compile >> javac name.java
+name is the filename
+run >> java name
+
+to run code without error:
+compile >> javac name.java
+name is the filename
+run >> java -cp ./classes;. name

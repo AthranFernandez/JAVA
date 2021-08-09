@@ -1,0 +1,4 @@
+goto javacode folder and run codes
+if there are errors or mistakes pls fix
+if the command line doesnt run code do the following in z.txt
+compile if needed
